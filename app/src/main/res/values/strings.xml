@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">unit_convertor</string>
+    <string-array name="Grams">
+        <item>KiloGrams</item>
+        <item>MileGrams</item>
+        <item>Gram</item>
+    </string-array>
+</resources>
